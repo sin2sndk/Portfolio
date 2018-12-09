@@ -2,8 +2,8 @@
 
 body {
     font-family: 'Merriweather', 'Georgia', serif;
-    font-size: 14px;
     font-weight: normal;
+    font-size: 16px;
 }
 
 a {
@@ -12,7 +12,7 @@ a {
 }
 
 h1 {
-    font-size: 2.2em;
+    font-size: 5rem;
     font-weight: bold;
     margin: 0;
     margin-bottom: 2em;
@@ -23,14 +23,20 @@ h1 a {
 }
 
 #container {
-    max-width: 460px;
+    max-width: 40rem;
     padding: 40px 20px;
     margin-right: auto;
     margin-left: auto;
 }
 
+#container h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
 dl {
-    text-indent: 2em;
+    text-indent: 2rem;
+
 }
 
 dl dt {
