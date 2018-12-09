@@ -23,15 +23,10 @@ h1 a {
 }
 
 #container {
-    max-width: 40rem;
+    max-width: 45rem;
     padding: 40px 20px;
     margin-right: auto;
     margin-left: auto;
-}
-
-#container h2 {
-    font-size: 1.2rem;
-    font-weight: bold;
 }
 
 dl {
