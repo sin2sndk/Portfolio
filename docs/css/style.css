@@ -38,6 +38,10 @@ dl dt {
     font-weight: bold;
 }
 
+dl dt dd {
+    margin-left: 1em;
+}
+
 dl dt dd a {
     margin: 0;
 }
